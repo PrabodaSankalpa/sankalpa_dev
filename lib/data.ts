@@ -84,7 +84,7 @@ export const projectsData = [
       "This is a web-based platform that allows lectures and students to manage their 'online video sessions' in one place.",
     tags: ["PHP", "JavaScript", "HTML", "CSS"],
     imageUrl: flashzoom,
-    demoUrl: "https://flashzoom.sankalpa.dev/",
+    demoUrl: "https://65.109.86.90/~sankalpa/index.php",
     sourceCodeUrl: "https://github.com/PrabodaSankalpa/FlashZoom",
   },
   {
